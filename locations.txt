@@ -1,4 +1,4 @@
-"Streaming Random Forest" 
+﻿"Streaming Random Forest" 
 
 +<p>Spark修炼之道（进阶篇）——Spark入门到精通：第二节 Hadoop、Spark生成圈简介</p>
 +
@@ -6,3 +6,12 @@
 +http://www.voidcn.com/blog/lovehuangjiaju/article/p-4457036.html
 Add a comment to this line
 +</p>
+
+
+1 Hadoop
+
+Apache的Hadoop项目已几乎与大数据划上了等号。它不断壮大起来，已成为一个完整的生态系统，众多开源工具面向高度扩展的分布式计算。
+
+支持的操作系统：Windows、Linux和OS X。
+
+相关链接：http://hadoop.apache.org
